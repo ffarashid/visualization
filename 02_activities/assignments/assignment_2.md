@@ -14,6 +14,8 @@
 Good Visualization
 Title: “Global Temperature Change (1880–2020)”
 Source: NASA Climate Change
+Link:
+https://climate.nasa.gov/vital-signs/global-temperature/ 
 Why is this a good visualization?
 
 This data visualization is a strong example of good practice because it follows fundamental principles outlined in key data visualization literature and aligns with course content on effective design and communication.
@@ -34,6 +36,8 @@ This visualization demonstrates how good design can enhance clarity, facilitate 
 Bad Visualization
 Title: “Where Americans Spend Their Money”
 Source: Fox News Pie Chart (2015)
+Link:
+https://flowingdata.com/2015/03/25/fox-news-pie-chart/ 
 Why is this a bad visualization?
 
 This visualization is often used in data literacy training as an example of what not to do. It violates several principles of effective data visualization discussed in class and supported by foundational literature.
