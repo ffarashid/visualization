@@ -37,7 +37,7 @@ Bad Visualization
 Title: “Where Americans Spend Their Money”
 Source: Fox News Pie Chart (2015)
 Link:
-https://flowingdata.com/2015/03/25/fox-news-pie-chart/ 
+https://datavizblog.com/2014/09/06/dataviz-squaring-the-pie-chart/
 Why is this a bad visualization?
 
 This visualization is often used in data literacy training as an example of what not to do. It violates several principles of effective data visualization discussed in class and supported by foundational literature.
